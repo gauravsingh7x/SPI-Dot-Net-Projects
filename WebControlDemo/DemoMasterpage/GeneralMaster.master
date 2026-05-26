@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿<%@ Master Language="C#" MasterPageFile="~/GeneralMaster.master" AutoEventWireup="true" CodeFile="GeneralMaster.master.cs" Inherits="GeneralMaster" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
@@ -5,3 +6,12 @@
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
 </asp:Content>
 
+=======
+﻿<%@ Master Language="C#" MasterPageFile="~/GeneralMaster.master" AutoEventWireup="true" CodeFile="GeneralMaster.master.cs" Inherits="GeneralMaster" %>
+
+<asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
+</asp:Content>
+
+>>>>>>> 55c7a8c460464ebc7b8089e3b967921b66e1e1f5
